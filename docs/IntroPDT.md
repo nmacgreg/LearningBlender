@@ -10,9 +10,20 @@
 * [Next new vid, "Precision Addons"](https://www.youtube.com/watch?v=qzhgrHDDR7I&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=2)
 	* Notes that some Addons are from Blender; others are community-supported; many ship with Blender
 	* Notes that you can see authorship + URL for plugins, from the twistee beside each
-	* Adds "3D View: MeasureIt"
     * That horizontal menu, RHS of the Viewport, is called the Sidebar... you can open it with "N"
 	* [@3:29 he lists them all](https://youtu.be/v9tbXF410SU?list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&t=209)
+	* 3D View: MeasureIt
+	* 3D View: Stored Views
+	* Add Mesh: Extra Objects
+	* Add Mesh: Bolt Factory
+	* Export Autocad DXF
+	* Import Autocad DXF
+	* Mesh: Tincad Mesh Tools
+	* Object: Bool Tool
+	* Object: Align Tool
+	* Mesh: 3D Print Toolbox
+	* Interface: Modifier Tools
+	* Mesh: F2
 
 ##  v2.82
 
@@ -75,6 +86,9 @@
 ## My questions at this point
 
 * Now that I can select faces, I can delete the top face off the incipid default box that appears every time you open Blender
-* Knowing now that the box is *hollow*, 
-
+* Knowing now that the box is *hollow*, can I set the thickness of a line or a face? 
+	* Thinking back to the Stormtrooper mask planter I printed... 
+		* what would that look like, imported?
+		* Could I see the weak areas, where it leaked, when printed? 
+		* Could I increase the thickness of the walls, slightly?
 
