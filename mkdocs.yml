@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: Learning Blender for 3D Modeling & Printing
+nav:
+  - Home: index.md
+  - Setting Up Blender for Millimeters: Setting_mm.md
+  - Introduction to Precision Drawing Tools: IntroPDT.md  
+
+
+theme: readthedocs
