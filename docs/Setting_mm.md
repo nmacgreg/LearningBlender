@@ -2,6 +2,8 @@
 
 ## Updated for v2.9 / 3.0
 
+* [Saving a default startup file](https://youtu.be/VihRvil3138?list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&t=120) with mm's set up
+
 ## The Older Course
 
 * [How To - Set Up Blender into millimeters (mm)](https://www.youtube.com/watch?v=ZI49VIcISaw&list=PL6Fiih6ItYsX3qdwhEyd77zy82bM-I8t1)

@@ -8,14 +8,14 @@
 * The X/Y/Z navigation circle widget is called, "The Gizmo"
 * [@12:17 he demonstrates both "walk" and "fly" navigation](https://youtu.be/qzhgrHDDR7I?list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&t=737)
 * [Next new vid, "Precision Addons"](https://www.youtube.com/watch?v=qzhgrHDDR7I&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=2)
-	* Notes that some Addons are from Blender; others are community-supported; many ship with Blender
+	* Notes that some Addons are from Blender; others are community-supported; many ship with Blender, but you can find externals, too!
 	* Notes that you can see authorship + URL for plugins, from the twistee beside each
     * That horizontal menu, RHS of the Viewport, is called the Sidebar... you can open it with "N"
 	* [@3:29 he lists them all](https://youtu.be/v9tbXF410SU?list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&t=209)
 	* 3D View: MeasureIt
 	* 3D View: Stored Views
 	* Add Mesh: Extra Objects
-	* Add Mesh: Bolt Factory
+	* Add Mesh: BoltFactory
 	* Export Autocad DXF
 	* Import Autocad DXF
 	* Mesh: Tincad Mesh Tools
@@ -24,6 +24,7 @@
 	* Mesh: 3D Print Toolbox
 	* Interface: Modifier Tools
 	* Mesh: F2
+* Mentions [BlenderArtists.com](https://blenderartists.com) as a forum, and a place where you'll find *external* community-developed plugins
 
 ##  v2.82
 
