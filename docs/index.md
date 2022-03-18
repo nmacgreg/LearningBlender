@@ -7,6 +7,8 @@
 * [Learn Blender](https://www.youtube.com/watch?v=v9tbXF410SU&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=3)
 * [Setting up mm](https://www.youtube.com/watch?v=VihRvil3138&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=4)
 * [What is mesh, selecting it](https://www.youtube.com/watch?v=vi6cQCnaM4A&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=5)
+* [Object Fundamentals - Create, Delete, & Duplicate](https://www.youtube.com/watch?v=B-RTF6L8VQ0&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=6)
+* [Origin Snapping & Edit/Object Mode Connections](https://www.youtube.com/watch?v=zb8WikmTnCc&list=PL6Fiih6ItYsXzUbBNz7-IvV7UJYHZzCdF&index=7)
     * I think this was the one that taught me about using the cursor
     * That is, when you need to position two objects exactly, first select a vertext & set the object's "center" there
     * Then select the second object, and do the same -- where the vertexes should meet
